@@ -1,0 +1,127 @@
+{
+  "runs": [
+    {
+      "topic": "Introduction to RAG",
+      "passed": true,
+      "rejection_log": []
+    },
+    {
+      "topic": "Introduction to RAG",
+      "passed": true,
+      "rejection_log": [
+        {
+          "attempt": 1,
+          "failed_checks": [
+            {
+              "name": "accuracy",
+              "passed": false,
+              "reason": "False claim detected: RAG does not update model weights during retrieval."
+            }
+          ],
+          "summary": "The lesson meets all criteria, offering an accurate, beginner\u2011friendly overview of RAG with good examples, clear terminology, complete coverage, and a logical teaching flow."
+        }
+      ]
+    },
+    {
+      "topic": "Introduction to RAG",
+      "passed": true,
+      "rejection_log": []
+    },
+    {
+      "topic": "Introduction to RAG",
+      "passed": true,
+      "rejection_log": [
+        {
+          "attempt": 1,
+          "failed_checks": [
+            {
+              "name": "accuracy",
+              "passed": false,
+              "reason": "False claim detected: RAG does not update model weights during retrieval."
+            }
+          ],
+          "summary": "The lesson meets all evaluation criteria, delivering an accurate, beginner\u2011friendly, well\u2011structured introduction to RAG with clear examples and explained terminology."
+        }
+      ]
+    },
+    {
+      "topic": "Introduction to RAG",
+      "passed": true,
+      "rejection_log": []
+    },
+    {
+      "topic": "Introduction to RAG",
+      "passed": true,
+      "rejection_log": [
+        {
+          "attempt": 1,
+          "failed_checks": [
+            {
+              "name": "accuracy",
+              "passed": false,
+              "reason": "False claim detected: RAG does not update model weights during retrieval."
+            }
+          ],
+          "summary": "Lesson failed evaluation. Failed criteria: accuracy"
+        }
+      ]
+    },
+    {
+      "topic": "Introduction to RAG",
+      "passed": true,
+      "rejection_log": [
+        {
+          "attempt": 1,
+          "failed_checks": [
+            {
+              "name": "accuracy",
+              "passed": false,
+              "reason": "False claim detected: RAG does not update model weights during retrieval."
+            }
+          ],
+          "summary": "Lesson failed evaluation. Failed criteria: accuracy"
+        }
+      ]
+    },
+    {
+      "topic": "Introduction to RAG",
+      "passed": true,
+      "rejection_log": []
+    },
+    {
+      "topic": "Introduction to RAG",
+      "passed": true,
+      "rejection_log": []
+    },
+    {
+      "topic": "Introduction to RAG",
+      "passed": true,
+      "rejection_log": []
+    },
+    {
+      "topic": "Introduction to RAG",
+      "passed": true,
+      "rejection_log": []
+    },
+    {
+      "topic": "Introduction to RAG",
+      "passed": true,
+      "rejection_log": [
+        {
+          "attempt": 1,
+          "failed_checks": [
+            {
+              "name": "accuracy",
+              "passed": false,
+              "reason": "False claim detected: RAG does not update model weights during retrieval."
+            }
+          ],
+          "summary": "Lesson failed evaluation. Failed criteria: accuracy"
+        }
+      ]
+    }
+  ],
+  "useful_feedback": [
+    "False claim detected: RAG does not update model weights during retrieval."
+  ]
+}
